@@ -18,10 +18,7 @@ const galleryImages = [
   { src: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746795736/Our_Office_2_q7uliy.png", alt: "Office 2", category: "Office" },
   { src: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746795734/Our_Office_oeveym.png", alt: "Office 2", category: "Office" },
   { src: "/img12.jpeg", alt: "Administer 1", category: "Administer" },
-  { src: "/photo-1508061253366-f7da158b6d46.avif", alt: "Production 1", category: "Production" },
-  { src: "/PINE_NUTS.jpg", alt: "Production 1", category: "Production" },
-  { src: "/FLAXSEED_IMAGE.jpg", alt: "Production 1", category: "Production" },
-  { src: "/Poppy_seeds.jpg", alt: "Production 1", category: "Production" },
+  { src: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746795586/Manufacturing_abavqi.png", alt: "Production 1", category: "Production" },
 ];
 
 const GalleryPage = () => {
