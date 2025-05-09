@@ -21,7 +21,7 @@ const products = [
   //Done
   {
     id: 12,
-    name: "Swan 64 channel NW Machine",
+    name: "Swan 1 chute 64 channel ",
     description:
       "We are well known as the reputed organization in this field of operation,",
     image: "/reimg5.jpg",
