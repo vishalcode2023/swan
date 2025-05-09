@@ -59,7 +59,7 @@ const Page = () => {
         >
           <div className="relative w-full max-w-xs sm:max-w-md md:w-[500px] lg:w-[600px] xl:w-[700px] transform hover:scale-105 transition duration-300">
             <Image
-              src="/img16.png"
+              src="https://res.cloudinary.com/dt2juqy9s/image/upload/v1746543795/img16_x7kqtm.png"
               alt="M2 Machine"
               width={800}
               height={600}
@@ -148,7 +148,7 @@ const Page = () => {
                   {/* Logo */}
                   <div className="flex justify-center lg:justify-start mb-4">
                     <Image
-                      src="/img16.png"
+                      src="https://res.cloudinary.com/dt2juqy9s/image/upload/v1746543795/img16_x7kqtm.png"
                       alt="Product Logo"
                       width={250}
                       height={40}
