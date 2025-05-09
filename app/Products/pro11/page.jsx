@@ -48,7 +48,7 @@ const Page = () => {
           animate="visible"
           variants={fadeIn}
         >
-        Swan 64 channel NW Machine
+        Swan 1 chute 64 channel 
         </motion.h1>
 
         {/* Main Machine Image */}
