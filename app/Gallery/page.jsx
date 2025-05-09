@@ -14,7 +14,7 @@ const galleryImages = [
   // { src: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746795586/Manufacturing_abavqi.png", alt: "Manufacturing 1", category: "Manufacture" },
   { src: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746795586/Manufacturing_1_l8gku5.png", alt: "Manufacturing 1", category: "Manufacture" },
   { src: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746795261/WhatsApp_Image_2025-05-09_at_1.36.25_PM_jg593f.jpg", alt: "Team 2", category: "Team" },
-  { src: "/office1.jpeg", alt: "Office 2", category: "Office" },
+  //{ src: "/office1.jpeg", alt: "Office 2", category: "Office" },
   { src: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746795736/Our_Office_2_q7uliy.png", alt: "Office 2", category: "Office" },
   { src: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746795734/Our_Office_oeveym.png", alt: "Office 2", category: "Office" },
   { src: "/img12.jpeg", alt: "Administer 1", category: "Administer" },
