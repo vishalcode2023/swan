@@ -11,7 +11,7 @@ import ContactSidebar from "@/app/Components/LandingPages/ContactSidebar";
 
 const products = [
   {
-    name: "Swan 300 belt type MS frame",
+    name: "Swan 300 MS ",
     image: "/img1.jpeg",
     description:
       "Experience next-level precision with the Swan RGB Tri Chromatic CCD Camera...",
@@ -27,8 +27,8 @@ const products = [
     DrawingsLink:"/pdfDrawings/Swan 300 MM belt type - 64 channel.pdf"
   },
   {
-    name: " Swan 600 MM belt type",
-    image: "/img1.jpeg",
+    name: " Swan 600 MM ",
+    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803661/600mm_belt_conveyor_ak8scn.jpg",
     description: "We are well known as the reputed organization...",
     features: [
       "pixels RGB CCD Camera Technology",
@@ -41,8 +41,8 @@ const products = [
     DrawingsLink:"/pdfDrawings/Swan 600 MM belt type - 128 channel.pdf"
   },
   {
-    name: " Swan 900 MM belt type machine ",
-    image: "/img1.jpeg",
+    name: " Swan 900 MM  ",
+    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803662/900mm_belt_conveyor_slavd1.jpg",
     description: "Advanced spectral imaging for the most precise separation.",
     features: [
       "Near-infrared spectrum analysis",
