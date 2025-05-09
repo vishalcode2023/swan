@@ -24,11 +24,11 @@ const products = [
     ],
     reverse: false,
     brochureLink: "/PdfFolder/Industrial_Grain_Sorting.pdf",
-    DrawingsLink:"/pdfDrawings/Swan 300 MM belt type - 64 channel.pdf"
+    DrawingsLink:"/pdfDrawings/SS64R-00 AI Reverse cabin drawing.PDF"
   },
   {
     name: " Swan 128 belt Sortex ",
-    image: "",
+    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803661/600mm_belt_conveyor_ak8scn.jpg",
     description: "We are well known as the reputed organization...",
     features: [
       "pixels RGB CCD Camera Technology",
@@ -38,11 +38,11 @@ const products = [
     ],
     reverse: true,
     brochureLink: "/PdfFolder/Industrial_Grain_Sorting.pdf",
-    DrawingsLink:"/pdfDrawings/Swan 600 MM belt type - 128 channel.pdf"
+    DrawingsLink:"/pdfDrawings/SS128R-00 AI Reverse cabin drawing.pdf"
   },
   {
     name: " Swan 192 belt Sortex ",
-    image: "",
+    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803662/900mm_belt_conveyor_slavd1.jpg",
     description: "Advanced spectral imaging for the most precise separation.",
     features: [
       "Near-infrared spectrum analysis",
@@ -52,11 +52,11 @@ const products = [
     ],
     reverse: true,
     brochureLink: "/PdfFolder/Industrial_Grain_Sorting",
-    DrawingsLink:"/pdfDrawings/Swan 900 MM belt type - 192 channel.pdf"
+    DrawingsLink:"/pdfDrawings/SS192R-00 AI Reverse cabin drawing.PDF"
   },
   {
     name: " Swan 256 belt Sortex",
-    image: "",
+    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803661/600mm_belt_conveyor_ak8scn.jpg",
     description: "We are well known as the reputed organization...",
     features: [
       "pixels RGB CCD Camera Technology",
@@ -66,7 +66,7 @@ const products = [
     ],
     reverse: true,
     brochureLink: "/PdfFolder/Industrial_Grain_Sorting.pdf",
-    DrawingsLink:"/pdfDrawings/Swan 1200 MM belt type - 256 channel.pdf"
+    DrawingsLink:"/pdfDrawings/SS256R-00 AI Reverse cabin drawing.PDF"
   },
 ];
 
