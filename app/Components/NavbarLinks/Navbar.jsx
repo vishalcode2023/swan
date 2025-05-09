@@ -58,7 +58,7 @@ const page = () => {
             >
               <div className="relative group/nested">
                 <span className="cursor-pointer hover:text-blue-600 font-medium flex items-center justify-between">
-                  ColorSorters <FaChevronRight className="ml-2 text-sm" />
+                  Color Sorters <FaChevronRight className="ml-2 text-sm" />
                 </span>
 
                 <div className="absolute invisible group-hover/nested:visible opacity-0 group-hover/nested:opacity-100 transition-all duration-300 top-0 left-full ml-2 bg-white shadow-lg rounded-lg px-4 py-3 space-y-2 z-50 min-w-[160px]">
@@ -154,19 +154,13 @@ const page = () => {
                 href="/Gallery"
                 className="hover:text-blue-600 text-sm block"
               >
-                Our Events
+                 Events
               </Link>
               <Link
                 href="/Gallery"
                 className="hover:text-blue-600 text-sm block"
               >
-                Our Team
-              </Link>
-              <Link
-                href="/Gallery"
-                className="hover:text-blue-600 text-sm block"
-              >
-                Our Office
+                 Office
               </Link>
               <Link
                 href="/Gallery"
@@ -232,7 +226,7 @@ const page = () => {
             <div className="ml-4 mt-2 space-y-2">
               <details className="group/colorsorters">
                 <summary className="cursor-pointer font-medium py-2 px-2 rounded-md hover:bg-gray-100 transition">
-                  ColorSorters
+                  Color Sorters
                 </summary>
                 <div className="ml-4 mt-2 space-y-2">
                   <details className="group/belt">
@@ -350,21 +344,14 @@ const page = () => {
                 className="hover:text-blue-600 text-sm block"
                 onClick={() => setMenuOpen(false)}
               >
-                Our Events
+                 Events
               </Link>
               <Link
                 href="/Gallery"
                 className="hover:text-blue-600 text-sm block"
                 onClick={() => setMenuOpen(false)}
               >
-                Our Team
-              </Link>
-              <Link
-                href="/Gallery"
-                className="hover:text-blue-600 text-sm block"
-                onClick={() => setMenuOpen(false)}
-              >
-                Our Office
+                 Office
               </Link>
               <Link
                 href="/Gallery"
