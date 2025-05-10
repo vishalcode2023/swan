@@ -13,7 +13,7 @@ const products = [
     id: 9,
     name: " Swan 1 chute 64 channel ",
     description: "We manufacture high-quality Dal Color Sorter Machines.",
-    image: "/img16.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875682/64_channel_cashew_1_chute_nk2rok.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro8",
     orderLink: "/Orders"
@@ -24,7 +24,7 @@ const products = [
     name: "Swan 64 channel NW Machine",
     description:
       "We are well known as the reputed organization in this field of operation,",
-    image: "/reimg5.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875732/64_Channel_NW_machine_zvbkoy.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro11",
     orderLink: "/Orders"
@@ -34,7 +34,7 @@ const products = [
     id: 1,
     name: "Swan 3 chute 192 Channel",
     description: "We manufacture high-quality Dal Color Sorter Machines.",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746699954/192_Channel_Forward_3_chute_qpglto.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746876029/192_Channel_Forward_3_chute_kxffex.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro2",
     orderLink: "/Orders"
@@ -44,7 +44,7 @@ const products = [
     id: 3,
     name: "Swan 2 chute 128 channel",
     description: "Enhance sorting efficiency with AI-powered technology.",
-    image: "/img3.JPG",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875765/128_channel_cashew_2_chute_d2too2.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro3",
     orderLink: "/Orders"
@@ -54,7 +54,7 @@ const products = [
     id: 5,
     name: "Swan 3 chute 192 channel",
     description: "We manufacture high-quality Dal Color Sorter Machines.",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746543795/img16_x7kqtm.png",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875844/192_channel_cashew_3_chute_hsg4a6.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro5",
     orderLink: "/Orders"
@@ -63,7 +63,7 @@ const products = [
     id: 7,
     name: "Swan 1 chute 64 channel",
     description: "Enhance sorting efficiency with AI-powered technology.",
-    image: "/reimg1.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875333/64_channel_1_chute_a27wrm.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro6",
     orderLink: "/Orders"
@@ -72,7 +72,7 @@ const products = [
     id: 14,
     name: " Swan 2 chute 128 channel ",
     description: "We manufacture high-quality Dal Color Sorter Machines.",
-    image: "/img20.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875391/128_channel_2_chute_zwprka.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro1",
     orderLink: "/Orders"
@@ -82,7 +82,7 @@ const products = [
     name: "Swan 3 chute 192 channel",
     description:
       "We are well known as the reputed organization ",
-    image: "/reimg2.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875447/192_channel_3_chute_bdmqms.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro4",
     orderLink: "/Orders"
@@ -91,7 +91,7 @@ const products = [
     id: 10,
     name: "Swan 4 chute 256 channel",
     description: "Premium sorting technology for precision sorting.",
-    image: "/reimg4.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875490/256_channel_4_chute_wuw2wp.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro9",
     orderLink: "/Orders"
@@ -102,7 +102,7 @@ const products = [
     id: 11,
     name: "Swan 5 chute 320 channel",
     description: "Premium sorting technology for precision sorting.",
-    image: "/img4.jpeg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875532/320_Channel_5_chute_pyq62s.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro10",
     orderLink: "/Orders"
@@ -111,7 +111,7 @@ const products = [
     id: 12,
     name: "Swan  7 chute 448 channel",
     description: "Premium sorting technology for precision sorting.",
-    image: "/img15.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875591/448_Channel_7_chute_fb3ugx.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro12",
     orderLink: "/Orders"
@@ -120,7 +120,7 @@ const products = [
     id: 13,
     name: "Swan 8 chute 512 channel",
     description: "Premium sorting technology for precision sorting.",
-    image: "/img19.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875631/512_Channel_8_chute_smmkzj.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro13",
     orderLink: "/Orders"
@@ -129,7 +129,7 @@ const products = [
     id: 14,
     name: "Swan 2 chute 128 channel",
     description: "Premium sorting technology for precision sorting.",
-    image: "/img18.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875993/128_Channel_Forward_2_chute_bgl5ai.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro14",
     orderLink: "/Orders"
@@ -138,7 +138,7 @@ const products = [
     id: 15,
     name: " Swan 300 slow conveyor",
     description: "Premium sorting technology for precision sorting.",
-    image: "/img1.jpeg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746876210/300_slow_conveyor_ljcxfk.jpg",
     video: "/Video1.mp4",
     link: "/Products/pro15",
     orderLink: "/Orders"
