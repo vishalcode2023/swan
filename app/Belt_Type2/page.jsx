@@ -42,7 +42,7 @@ const products = [
   },
   {
     name: " Swan 192 belt Sortex ",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803662/900mm_belt_conveyor_slavd1.jpg",
+    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746853843/WhatsApp_Image_2025-05-10_at_10.20.46_AM_g7e7xb.jpg",
     description: "Advanced spectral imaging for the most precise separation.",
     features: [
       "Near-infrared spectrum analysis",
