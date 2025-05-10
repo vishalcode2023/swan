@@ -54,7 +54,7 @@ const products = [
     id: 5,
     name: "Swan 3 chute 192 channel",
     description: "We manufacture high-quality Dal Color Sorter Machines.",
-    image: "/img16.png",
+    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746543795/img16_x7kqtm.png",
     video: "/Video1.mp4",
     link: "/Products/pro5",
     orderLink: "/Orders"
