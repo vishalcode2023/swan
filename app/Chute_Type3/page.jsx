@@ -12,7 +12,7 @@ import ContactSidebar from "@/app/Components/LandingPages/ContactSidebar";
 const products = [
   {
     name: " Swan 2 chute 128 channel",
-    image: "/img18.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875993/128_Channel_Forward_2_chute_bgl5ai.jpg",
     description:
       "Introducing Falcon Max – maximum performance, maximum precision.",
     features: [
@@ -27,7 +27,7 @@ const products = [
   },
   {
     name: " Swan 3 chute 192 Channel ",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746699954/192_Channel_Forward_3_chute_qpglto.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746876029/192_Channel_Forward_3_chute_kxffex.jpg",
     description:
       "Flagship model built for ultra-speed industrial-scale operations.",
     features: [
@@ -43,7 +43,7 @@ const products = [
   
   {
     name: " Swan 10 chute 640 channel",
-    image: "/img10.jpeg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746876126/640_Channel_Forward_10_chute_ryrk7f.jpg",
     description:
       "Flagship model built for ultra-speed industrial-scale operations.",
     features: [
