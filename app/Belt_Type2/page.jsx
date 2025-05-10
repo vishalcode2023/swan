@@ -56,7 +56,7 @@ const products = [
   },
   {
     name: " Swan 256 belt Sortex",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803661/600mm_belt_conveyor_ak8scn.jpg",
+    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746853843/WhatsApp_Image_2025-05-10_at_10.20.46_AM_g7e7xb.jpg",
     description: "We are well known as the reputed organization...",
     features: [
       "pixels RGB CCD Camera Technology",
