@@ -48,7 +48,7 @@ const Page = () => {
           animate="visible"
           variants={fadeIn}
         >
-        Swan 300 belt type MS frame
+        Swan 300 slow conveyor
         </motion.h1>
 
         {/* Main Machine Image */}
