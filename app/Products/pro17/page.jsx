@@ -48,7 +48,7 @@ const Page = () => {
           animate="visible"
           variants={fadeIn}
         >
-        Swan 900 MM belt type machine 
+        Swan 900mm belt conveyor
         </motion.h1>
 
         {/* Main Machine Image */}
