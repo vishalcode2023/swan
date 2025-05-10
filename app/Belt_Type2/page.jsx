@@ -28,7 +28,7 @@ const products = [
   },
   {
     name: " Swan 128 belt Sortex ",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803661/600mm_belt_conveyor_ak8scn.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746876257/600mm_belt_conveyor_kk4wj4.jpg",
     description: "We are well known as the reputed organization...",
     features: [
       "pixels RGB CCD Camera Technology",
@@ -42,7 +42,7 @@ const products = [
   },
   {
     name: " Swan 192 belt Sortex ",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746853843/WhatsApp_Image_2025-05-10_at_10.20.46_AM_g7e7xb.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746876287/900mm_belt_conveyor_y5xrik.jpg",
     description: "Advanced spectral imaging for the most precise separation.",
     features: [
       "Near-infrared spectrum analysis",
@@ -56,7 +56,7 @@ const products = [
   },
   {
     name: " Swan 256 belt Sortex",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746853843/WhatsApp_Image_2025-05-10_at_10.20.46_AM_g7e7xb.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746876287/900mm_belt_conveyor_y5xrik.jpg",
     description: "We are well known as the reputed organization...",
     features: [
       "pixels RGB CCD Camera Technology",
