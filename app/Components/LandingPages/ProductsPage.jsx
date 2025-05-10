@@ -143,24 +143,24 @@ const products = [
     link: "/Products/pro15",
     orderLink: "/Orders"
   },
-  {
-    id: 16,
-    name: "Swan 600mm belt conveyor",
-    description: "Premium sorting technology for precision sorting.",
-    image: "/img11.jpeg",
-    video: "/Video1.mp4",
-    link: "/Products/pro16",
-    orderLink: "/Orders"
-  },
-  {
-    id: 17,
-    name: "Swan 900mm belt conveyor ",
-    description: "Premium sorting technology for precision sorting.",
-    image: "/img7.jpeg",
-    video: "/Video1.mp4",
-    link: "/Products/pro17",
-    orderLink: "/Orders"
-  },
+  // {
+  //   id: 16,
+  //   name: "Swan 600mm belt conveyor",
+  //   description: "Premium sorting technology for precision sorting.",
+  //   image: "/img11.jpeg",
+  //   video: "/Video1.mp4",
+  //   link: "/Products/pro16",
+  //   orderLink: "/Orders"
+  // },
+  // {
+  //   id: 17,
+  //   name: "Swan 900mm belt conveyor ",
+  //   description: "Premium sorting technology for precision sorting.",
+  //   image: "/img7.jpeg",
+  //   video: "/Video1.mp4",
+  //   link: "/Products/pro17",
+  //   orderLink: "/Orders"
+  // },
 ];
 
 const ProductsPage = () => {
