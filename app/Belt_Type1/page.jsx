@@ -11,7 +11,7 @@ import ContactSidebar from "@/app/Components/LandingPages/ContactSidebar";
 
 const products = [
   {
-    name: "Swan 300 MS ",
+    name: "Swan 300 slow conveyor",
     image: "/img1.jpeg",
     description:
       "Experience next-level precision with the Swan RGB Tri Chromatic CCD Camera...",
@@ -27,7 +27,7 @@ const products = [
     DrawingsLink:"/pdfDrawings/Swan 300 MM belt type - 64 channel.pdf"
   },
   {
-    name: " Swan 600 MM ",
+    name: " Swan 600mm belt conveyor",
     image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803661/600mm_belt_conveyor_ak8scn.jpg",
     description: "We are well known as the reputed organization...",
     features: [
@@ -41,7 +41,7 @@ const products = [
     DrawingsLink:"/pdfDrawings/Swan 600 MM belt type - 128 channel.pdf"
   },
   {
-    name: " Swan 900 MM  ",
+    name: " Swan 900mm belt conveyor ",
     image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803662/900mm_belt_conveyor_slavd1.jpg",
     description: "Advanced spectral imaging for the most precise separation.",
     features: [
@@ -55,7 +55,7 @@ const products = [
     DrawingsLink:"/pdfDrawings/Swan 900 MM belt type - 192 channel.pdf"
   },
   {
-    name: " Swan 1200 MM belt type",
+    name: " Swan 1200MM belt conveyor",
     image: "/img1.jpeg",
     description: "We are well known as the reputed organization...",
     features: [
