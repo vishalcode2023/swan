@@ -12,7 +12,7 @@ import ContactSidebar from "@/app/Components/LandingPages/ContactSidebar";
 const products = [
   {
     name: " Swan 1 chute 64 channel",
-    image: "/reimg1.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875333/64_channel_1_chute_a27wrm.jpg",
     description:
       "Introducing Falcon Max – maximum performance, maximum precision.",
     features: [
@@ -27,7 +27,7 @@ const products = [
   },
   {
     name: "Swan  2 chute 128 channel",
-    image: "/img20.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875391/128_channel_2_chute_zwprka.jpg",
     description:
       "Flagship model built for ultra-speed industrial-scale operations.",
     features: [
@@ -42,7 +42,7 @@ const products = [
   },
   {
     name: " Swan 3 chute 192 channel",
-    image: "/reimg2.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875447/192_channel_3_chute_bdmqms.jpg",
     description:
       "Flagship model built for ultra-speed industrial-scale operations.",
     features: [
@@ -57,7 +57,7 @@ const products = [
   },
   {
     name: " Swan 4 chute 256 channel",
-    image: "/reimg4.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875490/256_channel_4_chute_wuw2wp.jpg",
     description:
       "Flagship model built for ultra-speed industrial-scale operations.",
     features: [
@@ -72,7 +72,7 @@ const products = [
   },
   {
     name: "Swan 5 chute 320 channel",
-    image: "/img4.jpeg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875532/320_Channel_5_chute_pyq62s.jpg",
     description: "We are well known as the reputed organization...",
     features: [
       "Ultra-fast sorting speed",
@@ -86,7 +86,7 @@ const products = [
   },
   {
     name: "Swan  7 chute 448 channel",
-    image: "/img15.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875591/448_Channel_7_chute_fb3ugx.jpg",
     description:
       "Flagship model built for ultra-speed industrial-scale operations.",
     features: [
@@ -101,7 +101,7 @@ const products = [
   },
   {
     name: "Swan 8 chute 512 channel",
-    image: "/img19.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875631/512_Channel_8_chute_smmkzj.jpg",
     description:
       "Flagship model built for ultra-speed industrial-scale operations.",
     features: [
