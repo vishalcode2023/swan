@@ -21,7 +21,7 @@ const products = [
   //Done
   {
     id: 12,
-    name: "Swan 1 chute 64 channel ",
+    name: "Swan 64 channel NW Machine",
     description:
       "We are well known as the reputed organization in this field of operation,",
     image: "/reimg5.jpg",
@@ -54,7 +54,7 @@ const products = [
     id: 5,
     name: "Swan 3 chute 192 channel",
     description: "We manufacture high-quality Dal Color Sorter Machines.",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746543795/img16_x7kqtm.png",
+    image: "/img16.png",
     video: "/Video1.mp4",
     link: "/Products/pro5",
     orderLink: "/Orders"
@@ -136,7 +136,7 @@ const products = [
   },//done
   {
     id: 15,
-    name: "Swan 300 belt type MS frame",
+    name: " Swan 300 slow conveyor",
     description: "Premium sorting technology for precision sorting.",
     image: "/img1.jpeg",
     video: "/Video1.mp4",
@@ -145,7 +145,7 @@ const products = [
   },
   {
     id: 16,
-    name: "Swan 600 MM belt type",
+    name: "Swan 600mm belt conveyor",
     description: "Premium sorting technology for precision sorting.",
     image: "/img11.jpeg",
     video: "/Video1.mp4",
@@ -154,7 +154,7 @@ const products = [
   },
   {
     id: 17,
-    name: "Swan 900 MM belt type machine ",
+    name: "Swan 900mm belt conveyor ",
     description: "Premium sorting technology for precision sorting.",
     image: "/img7.jpeg",
     video: "/Video1.mp4",
