@@ -28,7 +28,7 @@ const products = [
   },
   {
     name: " Swan 600mm belt conveyor",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803661/600mm_belt_conveyor_ak8scn.jpg",
+    image: "/img1.jpeg",
     description: "We are well known as the reputed organization...",
     features: [
       "pixels RGB CCD Camera Technology",
@@ -42,7 +42,7 @@ const products = [
   },
   {
     name: " Swan 900mm belt conveyor ",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746803662/900mm_belt_conveyor_slavd1.jpg",
+    image: "/img1.jpeg",
     description: "Advanced spectral imaging for the most precise separation.",
     features: [
       "Near-infrared spectrum analysis",
