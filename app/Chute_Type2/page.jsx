@@ -12,7 +12,7 @@ import ContactSidebar from "@/app/Components/LandingPages/ContactSidebar";
 const products = [
   {
     name: " Swan 1 chute 64 channel",
-    image: "/img16.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875682/64_channel_cashew_1_chute_nk2rok.jpg",
     description:
       "Introducing Falcon Max – maximum performance, maximum precision.",
     features: [
@@ -27,7 +27,7 @@ const products = [
   },
   {
     name: " Swan 64 channel NW Machine",
-    image: "/reimg5.jpg",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875732/64_Channel_NW_machine_zvbkoy.jpg",
     description:
       "Flagship model built for ultra-speed industrial-scale operations.",
     features: [
@@ -43,7 +43,7 @@ const products = [
 
   {
     name: "Swan 2 chute 128 channel",
-    image: "/img3.JPG",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875765/128_channel_cashew_2_chute_d2too2.jpg",
     description: "We are well known as the reputed organization...",
     features: [
       "Ultra-fast sorting speed",
@@ -57,7 +57,7 @@ const products = [
   },
   {
     name: "Swan 3 chute 192 channel",
-    image: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1746543795/img16_x7kqtm.png",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875844/192_channel_cashew_3_chute_hsg4a6.jpg",
     description:
       "Flagship model built for ultra-speed industrial-scale operations.",
     features: [
